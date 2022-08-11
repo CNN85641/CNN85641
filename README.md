@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CNN85641
+- 👋 Hi, I’m Souradip
 - 👀 I’m interested in machine learning and computer vision
 - 🌱 I’m currently learning object localization, Yolo
 - 💞️ I’m looking to collaborate on computer vision project
